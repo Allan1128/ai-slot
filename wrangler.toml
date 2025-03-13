@@ -1,0 +1,10 @@
+name = "ai-slot-bot"
+type = "javascript"
+
+[env.production]
+workers_dev = true
+route = ""
+zone_id = ""
+
+# 指定入口点
+main = "./src/index.js"
