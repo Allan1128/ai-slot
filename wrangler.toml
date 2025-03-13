@@ -1,4 +1,4 @@
-name = "ai-slot-bot"
+name = "aislot-bot"
 type = "javascript"
 
 [env.production]
